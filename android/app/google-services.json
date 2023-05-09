@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397344261412",
+    "project_id": "ist-topkapi-chat-room",
+    "storage_bucket": "ist-topkapi-chat-room.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397344261412:android:276bd3b682aae2f6651fb1",
+        "android_client_info": {
+          "package_name": "com.ihsanalapsi.ist_topkapi_chat_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397344261412-e3nuof3r6tmku9vukblm46426efvisjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihsanalapsi.ist_topkapi_chat_room",
+            "certificate_hash": "092775b5494f4a1f03c0ad94ef98dca78dbb1920"
+          }
+        },
+        {
+          "client_id": "397344261412-dmeaqfajd90l0srg61g4umaa0dkput06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHZ0uEehtqxr5OmqwwKnwS0hbrtX0VPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397344261412-dmeaqfajd90l0srg61g4umaa0dkput06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
